@@ -1,3 +1,3 @@
 # this is testing code
 b<-rnorm(100)
-plot(b)
+plot(b,xlim=(-2,2)
